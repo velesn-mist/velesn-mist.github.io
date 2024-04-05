@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6POVjRSnh37" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">cloudair-Veles.story</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="cloudair-Veles.story_ORG">
+    <organization identifier="cloudair-Veles.story_ORG">
+      <title>cloudair-Veles.story</title>
+      <item identifier="cloudair-Veles.story_SCO" isvisible="true" identifierref="__6POVjRSnh37_RES">
+        <title>cloudair-Veles.story</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6POVjRSnh37_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5aViQVadE7b_44100_48_0.mp3" />
+      <file href="mobile/5fC2yX1K9yt.png" />
+      <file href="mobile/65BDe0U05Xh.jpg" />
+      <file href="story_content/6ITZBcFYnmW_44100_48_0.mp3" />
+      <file href="mobile/6hGpwQ8R6TJ.png" />
+      <file href="mobile/6WvYiaT650I_B19_P_195_0_345_630.png" />
+      <file href="mobile/66VbfapMPSa.png" />
+      <file href="story_content/5kRxg6g8osK_44100_48_0.mp3" />
+      <file href="mobile/6obNEVJ0xz3.png" />
+      <file href="mobile/6h9drVFUhqY.png" />
+      <file href="mobile/5xsT38RL6Dn.png" />
+      <file href="story_content/6e9rp7hFWtZ_44100_48_0.mp3" />
+      <file href="mobile/6iStHhK5FGF.jpg" />
+      <file href="mobile/6j3BEQzMgLX.png" />
+      <file href="mobile/6PWU0pPc98d.png" />
+      <file href="mobile/6K2DBYVEdIy.png" />
+      <file href="mobile/5pFEAlaBEtz.png" />
+      <file href="mobile/6UZ705bO7gW.png" />
+      <file href="mobile/5t5NZddlfXZ.png" />
+      <file href="story_content/5lqvqj8x1DM_44100_48_0.mp3" />
+      <file href="mobile/5e31qtIO5oK.png" />
+      <file href="mobile/6j5NDkZsjIF.png" />
+      <file href="mobile/6KhgRWlpI4F.png" />
+      <file href="story_content/6cpvfVvAYXB_44100_48_0.mp3" />
+      <file href="mobile/6EgHwfsV06N.png" />
+      <file href="mobile/6cS25CNXPj4.png" />
+      <file href="story_content/6jKs4Legf1k_44100_48_0.mp3" />
+      <file href="mobile/6VQCqA0vQBk.png" />
+      <file href="story_content/6AuXcbyyRZi_44100_48_0.mp3" />
+      <file href="mobile/6CEhazffyH0.png" />
+      <file href="mobile/6VNmzCaEk22.png" />
+      <file href="story_content/5gQyWVTb6Qm_44100_48_0.mp3" />
+      <file href="mobile/6Iq0Bu07mFv.png" />
+      <file href="mobile/6rh2FBdqOcc.png" />
+      <file href="mobile/6msqvOQw2WP.png" />
+      <file href="story_content/5iEHHpKrFnF_44100_48_0.mp3" />
+      <file href="mobile/6o6QgO7UTnu.png" />
+      <file href="story_content/6cSklHPKVfd_44100_48_0.mp3" />
+      <file href="story_content/6X4tmZNxKPX_44100_48_0.mp3" />
+      <file href="mobile/5xuZzTO31ij.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6YtMgCNL1sL.jpg" />
+      <file href="mobile/Shape6hrdUWgl3tE.png" />
+      <file href="mobile/txt__default_5Vlequc8aoN.png" />
+      <file href="mobile/txt__default_6AnzLH9tB18.png" />
+      <file href="mobile/txt__default_5eELez6yo2v.png" />
+      <file href="mobile/txt__default_68KBhY9iY0K.png" />
+      <file href="mobile/txt__default_6ItkiZKXn89.png" />
+      <file href="mobile/txt__default_5uTC10uEVeu.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bnNGy9quSt.js" />
+      <file href="html5/data/js/5cT4oOheeMP.js" />
+      <file href="html5/data/js/5dOQDG8XDIh.js" />
+      <file href="html5/data/js/5sP1Vil4tbf.js" />
+      <file href="html5/data/js/5wikHEBMfUq.js" />
+      <file href="html5/data/js/5XFVsyd4LWY.js" />
+      <file href="html5/data/js/5Z3oAWFn3Aa.js" />
+      <file href="html5/data/js/5ZcKDugHBlW.js" />
+      <file href="html5/data/js/5Zskduk6bbE.js" />
+      <file href="html5/data/js/62zJEbK1k5Z.js" />
+      <file href="html5/data/js/68pDqlxXsyz.js" />
+      <file href="html5/data/js/6aYHALOgaQm.js" />
+      <file href="html5/data/js/6ClsWh7KXYb.js" />
+      <file href="html5/data/js/6jyHLokhr5n.js" />
+      <file href="html5/data/js/6TlqBJsu8K8.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
