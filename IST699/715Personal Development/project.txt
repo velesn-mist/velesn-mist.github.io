@@ -3855,7 +3855,7 @@
 "children":[],
 "roles":{
 "slide":{
-"durationInFrames":90
+"durationInFrames":162
 }
 ,
 "navigation":{
@@ -9190,7 +9190,7 @@
 "children":[],
 "roles":{
 "slide":{
-"durationInFrames":90
+"durationInFrames":285
 }
 ,
 "navigation":{
@@ -14209,7 +14209,7 @@
 "children":[],
 "roles":{
 "slide":{
-"durationInFrames":90
+"durationInFrames":867
 }
 ,
 "navigation":{
@@ -16057,7 +16057,7 @@
 "children":[],
 "roles":{
 "slide":{
-"durationInFrames":426
+"durationInFrames":441
 }
 ,
 "navigation":{
