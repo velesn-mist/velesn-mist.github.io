@@ -9,8 +9,8 @@ lang:''
 Slide37242:{
 lb:'',
 id:37242,
-from:130465,
-to:130554,
+from:130375,
+to:130464,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -80,9 +80,9 @@ uid:37242,
 dn:'Slide37242',
 visible:'1'
 },
-StAd100:{
-from:130555,
-to:131191,
+StAd50:{
+from:130465,
+to:131101,
 src:'ar/76313.mp3',
 du:21263,
 saup:[{
@@ -1386,9 +1386,9 @@ uid:1017,
 dn:'Slide1017',
 visible:'1'
 },
-StAd101:{
-from:130555,
-to:130778,
+StAd51:{
+from:130465,
+to:130688,
 src:'ar/76315.mp3',
 du:7469,
 saup:[{
@@ -3279,9 +3279,9 @@ uid:1151,
 dn:'Slide1151',
 visible:'1'
 },
-StAd102:{
-from:130555,
-to:131598,
+StAd52:{
+from:130465,
+to:131508,
 src:'ar/76317.mp3',
 du:34820,
 saup:[{
@@ -4418,9 +4418,9 @@ uid:1482,
 dn:'Slide1482',
 visible:'1'
 },
-StAd103:{
-from:130555,
-to:130836,
+StAd53:{
+from:130465,
+to:130746,
 src:'ar/77270.mp3',
 du:9428,
 saup:[{
@@ -5557,9 +5557,9 @@ uid:77117,
 dn:'Slide77117',
 visible:'1'
 },
-StAd104:{
-from:130555,
-to:131344,
+StAd54:{
+from:130465,
+to:131254,
 src:'ar/76319.mp3',
 du:26357,
 saup:[{
@@ -7751,9 +7751,9 @@ uid:41107,
 dn:'Slide41107',
 visible:'1'
 },
-StAd105:{
-from:130555,
-to:131513,
+StAd55:{
+from:130465,
+to:131423,
 src:'ar/76321.mp3',
 du:32000,
 saup:[{
@@ -8814,9 +8814,9 @@ uid:64796,
 dn:'Slide64796',
 visible:'1'
 },
-StAd106:{
-from:130555,
-to:132128,
+StAd56:{
+from:130465,
+to:132038,
 src:'ar/76323.mp3',
 du:52479,
 saup:[{
@@ -10110,9 +10110,9 @@ uid:68135,
 dn:'Slide68135',
 visible:'1'
 },
-StAd107:{
-from:130555,
-to:131255,
+StAd57:{
+from:130465,
+to:131165,
 src:'ar/76325.mp3',
 du:23430,
 saup:[{
@@ -11406,9 +11406,9 @@ uid:2698,
 dn:'Slide2698',
 visible:'1'
 },
-StAd108:{
-from:130555,
-to:131464,
+StAd58:{
+from:130465,
+to:131374,
 src:'ar/76329.mp3',
 du:30353,
 saup:[{
@@ -12702,9 +12702,9 @@ uid:65048,
 dn:'Slide65048',
 visible:'1'
 },
-StAd109:{
-from:130555,
-to:131191,
+StAd59:{
+from:130465,
+to:131101,
 src:'ar/77274.mp3',
 du:21263,
 saup:[{
@@ -23021,19 +23021,19 @@ bookmarks:[]
 ,
 qs:'si32009q0',
 iph:{
-32026:{
-ts:''
-}
-,
-32035:{
-ts:''
-}
-,
 32503:{
 ts:''
 }
 ,
 32557:{
+ts:''
+}
+,
+32026:{
+ts:''
+}
+,
+32035:{
 ts:''
 }
 
@@ -23062,9 +23062,9 @@ uid:31987,
 dn:'Slide31987',
 visible:'1'
 },
-StAd110:{
-from:130555,
-to:131387,
+StAd60:{
+from:130465,
+to:131297,
 src:'ar/76327.mp3',
 du:27767,
 saup:[{
@@ -23079,8 +23079,8 @@ l:false
 si68250:{
 name:'Image_44',
 type:1268,
-from:11527,
-to:12360,
+from:130465,
+to:131298,
 rp:0,
 rpa:0,
 mdi:'si68250c',
@@ -23247,8 +23247,8 @@ vb:[-1,-1,1,1]
 si68244:{
 name:'Image_Group_44',
 type:1268,
-from:11527,
-to:12360,
+from:130465,
+to:131298,
 rp:0,
 rpa:0,
 mdi:'si68244c',
@@ -23620,8 +23620,8 @@ vb:[-1,-1,212,181]
 si68185:{
 name:'Image_Group_Text_80',
 type:1268,
-from:11527,
-to:12360,
+from:130465,
+to:131298,
 rp:0,
 rpa:0,
 mdi:'si68185c',
@@ -23792,8 +23792,8 @@ vb:[-1,-1,1,1]
 si68167:{
 name:'Text_688',
 type:1250,
-from:11527,
-to:12360,
+from:130465,
+to:131298,
 rp:0,
 rpa:0,
 mdi:'si68167c',
@@ -23836,7 +23836,7 @@ efva:[]
 eflh:[68159],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"1favr","text":"How Thoughts Influence Feelings and Behaviors","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":45,"style":"fontWeight:normal"},{"offset":0,"length":45,"style":"textShadowBlur:8px"},{"offset":0,"length":45,"style":"mobile-fontSize:40"},{"offset":0,"length":45,"style":"desktop-fontSize:48"},{"offset":0,"length":45,"style":"tablet-fontSize:50"},{"offset":0,"length":45,"style":"textShadowColor:#19191929"},{"offset":0,"length":45,"style":"color:#00274a"},{"offset":0,"length":45,"style":"textShadow:none"},{"offset":0,"length":45,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":45,"style":"hlnkt:wp"},{"offset":0,"length":45,"style":"fontStyle:normal"},{"offset":0,"length":45,"style":"textOutlineEnable:false"},{"offset":0,"length":45,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":45,"style":"WebkitTextStrokeColor:#18a4bd"},{"offset":0,"length":45,"style":"opacity:1"},{"offset":0,"length":45,"style":"defaultTextStrokeColor:#18a4bd"},{"offset":0,"length":45,"style":"hlnke:true"},{"offset":0,"length":45,"style":"defaultTextShadow:none"},{"offset":0,"length":45,"style":"backgroundColor:unset"},{"offset":0,"length":45,"style":"textShadowX:0px"},{"offset":0,"length":45,"style":"fontStretch:normal"},{"offset":0,"length":45,"style":"fontType:regular"},{"offset":0,"length":45,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":45,"style":"textShadowY:4px"},{"offset":0,"length":45,"style":"lineHeight:135%"},{"offset":0,"length":45,"style":"letterSpacing:0%"},{"offset":0,"length":45,"style":"textHighlightEnable:false"},{"offset":0,"length":45,"style":"textTransform:none"},{"offset":0,"length":45,"style":"textShadowOpacity:none"},{"offset":0,"length":45,"style":"overridden:true"},{"offset":0,"length":45,"style":"textDecoration:none"},{"offset":0,"length":45,"style":"fontFamily:Georgia"},{"offset":0,"length":45,"style":"borderBottomStyle:none"},{"offset":0,"length":45,"style":"textShadowEnable:false"},{"offset":0,"length":45,"style":"hlnk:"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"1favr","text":"How Thoughts Influence Feelings and Behaviors","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":45,"style":"hlnkt:wp"},{"offset":0,"length":45,"style":"fontStyle:normal"},{"offset":0,"length":45,"style":"textOutlineEnable:false"},{"offset":0,"length":45,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":45,"style":"WebkitTextStrokeColor:#18a4bd"},{"offset":0,"length":45,"style":"opacity:1"},{"offset":0,"length":45,"style":"defaultTextStrokeColor:#18a4bd"},{"offset":0,"length":45,"style":"hlnke:true"},{"offset":0,"length":45,"style":"defaultTextShadow:none"},{"offset":0,"length":45,"style":"backgroundColor:unset"},{"offset":0,"length":45,"style":"textShadowX:0px"},{"offset":0,"length":45,"style":"fontStretch:normal"},{"offset":0,"length":45,"style":"fontType:regular"},{"offset":0,"length":45,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":45,"style":"textShadowY:4px"},{"offset":0,"length":45,"style":"lineHeight:135%"},{"offset":0,"length":45,"style":"letterSpacing:0%"},{"offset":0,"length":45,"style":"textHighlightEnable:false"},{"offset":0,"length":45,"style":"textTransform:none"},{"offset":0,"length":45,"style":"textShadowOpacity:none"},{"offset":0,"length":45,"style":"overridden:true"},{"offset":0,"length":45,"style":"textDecoration:none"},{"offset":0,"length":45,"style":"fontFamily:Georgia"},{"offset":0,"length":45,"style":"borderBottomStyle:none"},{"offset":0,"length":45,"style":"textShadowEnable:false"},{"offset":0,"length":45,"style":"hlnk:"},{"offset":0,"length":45,"style":"fontWeight:normal"},{"offset":0,"length":45,"style":"textShadowBlur:8px"},{"offset":0,"length":45,"style":"mobile-fontSize:40"},{"offset":0,"length":45,"style":"desktop-fontSize:48"},{"offset":0,"length":45,"style":"tablet-fontSize:50"},{"offset":0,"length":45,"style":"textShadowColor:#19191929"},{"offset":0,"length":45,"style":"color:#00274a"},{"offset":0,"length":45,"style":"textShadow:none"},{"offset":0,"length":45,"style":"WebkitTextStrokeWidth:1px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -24273,8 +24273,8 @@ vb:[-2,-2,-1,-1]
 Slide68275:{
 lb:'How Thoughts Influence Feelings and Behaviors',
 id:68275,
-from:11527,
-to:12360,
+from:130465,
+to:131298,
 iols:0,
 i360qs:false,
 sdu:27.8,
@@ -24358,9 +24358,9 @@ uid:68275,
 dn:'Slide68275',
 visible:'1'
 },
-StAd111:{
-from:130555,
-to:131552,
+StAd61:{
+from:131299,
+to:132296,
 src:'ar/76333.mp3',
 du:33279,
 saup:[{
@@ -25413,9 +25413,9 @@ uid:68278,
 dn:'Slide68278',
 visible:'1'
 },
-StAd112:{
-from:130555,
-to:130715,
+StAd62:{
+from:131299,
+to:131459,
 src:'ar/76969.mp3',
 du:5379,
 saup:[{
@@ -26709,9 +26709,9 @@ uid:68519,
 dn:'Slide68519',
 visible:'1'
 },
-StAd113:{
-from:130555,
-to:131774,
+StAd63:{
+from:131299,
+to:132518,
 src:'ar/76335.mp3',
 du:40671,
 saup:[{
@@ -27969,9 +27969,9 @@ uid:35645,
 dn:'Slide35645',
 visible:'1'
 },
-StAd114:{
-from:130555,
-to:132304,
+StAd64:{
+from:131299,
+to:133048,
 src:'ar/76337.mp3',
 du:58357,
 saup:[{
@@ -42103,11 +42103,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-5542:{
+5561:{
 ts:''
 }
 ,
-5561:{
+5542:{
 ts:''
 }
 
@@ -42136,9 +42136,9 @@ uid:4591,
 dn:'Slide4591',
 visible:'1'
 },
-StAd115:{
-from:130555,
-to:132005,
+StAd65:{
+from:131299,
+to:132749,
 src:'ar/76339.mp3',
 du:48430,
 saup:[{
@@ -42153,8 +42153,8 @@ l:false
 si44113:{
 name:'Carousel_Widget_2',
 type:1268,
-from:16495,
-to:17946,
+from:131299,
+to:132750,
 rp:0,
 rpa:0,
 mdi:'si44113c',
@@ -42178,7 +42178,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"visibilityInfo":{"slide-item-body":true,"container-slider-buttons":true,"slide-item-heading":true,"slide-item-widget-body":true,"slide-item-next-button":false,"slide-item-prev-button":false,"slide-item-widget-instructions":true,"card":false,"title":true,"slide-item-image":true,"container-navigator-buttons":true},"alignment":{"container-slider-buttons":"MIDDLE","slide-item-heading":"LEFT","slide-item-widget-body":"LEFT","slide-item-widget-instructions":"LEFT","title":"LEFT","slide-item-body":"LEFT"},"canBeCard":false,"isForcedNavigationEnabled":true,"contentSpacing":2,"widgetLayout":{"value":"F"},"padding":{"top":40,"bottom":40,"right":5,"left":5},"widgetFlow":{"value":"RL"},"activeImage":{"value":2},"designOptionStyles":{"all":{"flexDirection":"column"},"tablet":{},"mobile":{}},"appearanceProperties":{},"isAutoLoadingEnabled":{"value":false,"timeInterval":2}}',
+widgetProps:'{"visibilityInfo":{"slide-item-body":true,"container-slider-buttons":true,"slide-item-heading":true,"slide-item-widget-body":true,"slide-item-next-button":false,"slide-item-prev-button":false,"slide-item-widget-instructions":true,"card":false,"title":true,"slide-item-image":true,"container-navigator-buttons":true},"alignment":{"container-slider-buttons":"MIDDLE","slide-item-heading":"LEFT","slide-item-widget-body":"LEFT","slide-item-widget-instructions":"LEFT","title":"LEFT","slide-item-body":"LEFT"},"canBeCard":false,"isForcedNavigationEnabled":true,"contentSpacing":2,"widgetLayout":{"value":"F"},"padding":{"top":40,"bottom":40,"right":5,"left":5},"widgetFlow":{"value":"RL"},"activeImage":{"value":0},"designOptionStyles":{"all":{"flexDirection":"column"},"tablet":{},"mobile":{}},"appearanceProperties":{},"isAutoLoadingEnabled":{"value":false,"timeInterval":2}}',
 retainState:false,
 immo:false,
 apsn:'Slide44138',
@@ -42211,7 +42211,7 @@ t:1268
 ]
 ,
 containerType:'slider-widget',
-widgetProps:'{"visibilityInfo":{"slide-item-body":true,"container-slider-buttons":true,"slide-item-heading":true,"slide-item-widget-body":true,"slide-item-next-button":false,"slide-item-prev-button":false,"slide-item-widget-instructions":true,"card":false,"title":true,"slide-item-image":true,"container-navigator-buttons":true},"alignment":{"container-slider-buttons":"MIDDLE","slide-item-heading":"LEFT","slide-item-widget-body":"LEFT","slide-item-widget-instructions":"LEFT","title":"LEFT","slide-item-body":"LEFT"},"canBeCard":false,"isForcedNavigationEnabled":true,"contentSpacing":2,"widgetLayout":{"value":"F"},"padding":{"top":40,"bottom":40,"right":5,"left":5},"widgetFlow":{"value":"RL"},"activeImage":{"value":2},"designOptionStyles":{"all":{"flexDirection":"column"},"tablet":{},"mobile":{}},"appearanceProperties":{},"isAutoLoadingEnabled":{"value":false,"timeInterval":2}}',
+widgetProps:'{"visibilityInfo":{"slide-item-body":true,"container-slider-buttons":true,"slide-item-heading":true,"slide-item-widget-body":true,"slide-item-next-button":false,"slide-item-prev-button":false,"slide-item-widget-instructions":true,"card":false,"title":true,"slide-item-image":true,"container-navigator-buttons":true},"alignment":{"container-slider-buttons":"MIDDLE","slide-item-heading":"LEFT","slide-item-widget-body":"LEFT","slide-item-widget-instructions":"LEFT","title":"LEFT","slide-item-body":"LEFT"},"canBeCard":false,"isForcedNavigationEnabled":true,"contentSpacing":2,"widgetLayout":{"value":"F"},"padding":{"top":40,"bottom":40,"right":5,"left":5},"widgetFlow":{"value":"RL"},"activeImage":{"value":0},"designOptionStyles":{"all":{"flexDirection":"column"},"tablet":{},"mobile":{}},"appearanceProperties":{},"isAutoLoadingEnabled":{"value":false,"timeInterval":2}}',
 option:'DEFAULT_SLIDER_WIDGET_OPTION',
 padding:{
 left:0,
@@ -56207,8 +56207,8 @@ vb:[-2,-2,-1,-1]
 Slide44138:{
 lb:'Behaviors_ What You Do',
 id:44138,
-from:16495,
-to:17946,
+from:131299,
+to:132750,
 iols:0,
 i360qs:false,
 sdu:48.4,
@@ -56270,11 +56270,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-44083:{
+44061:{
 ts:''
 }
 ,
-44061:{
+44083:{
 ts:''
 }
 
@@ -56303,9 +56303,9 @@ uid:44138,
 dn:'Slide44138',
 visible:'1'
 },
-StAd116:{
-from:130555,
-to:131071,
+StAd66:{
+from:132751,
+to:133267,
 src:'ar/76971.mp3',
 du:17265,
 saup:[{
@@ -64974,11 +64974,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-9860:{
+9841:{
 ts:''
 }
 ,
-9841:{
+9860:{
 ts:''
 }
 
@@ -65893,9 +65893,9 @@ uid:68742,
 dn:'Slide68742',
 visible:'1'
 },
-StAd117:{
-from:130555,
-to:131105,
+StAd67:{
+from:132751,
+to:133301,
 src:'ar/77276.mp3',
 du:18389,
 saup:[{
@@ -67189,9 +67189,9 @@ uid:68880,
 dn:'Slide68880',
 visible:'1'
 },
-StAd118:{
-from:130555,
-to:131032,
+StAd68:{
+from:132751,
+to:133228,
 src:'ar/77278.mp3',
 du:15959,
 saup:[{
@@ -68485,9 +68485,9 @@ uid:69020,
 dn:'Slide69020',
 visible:'1'
 },
-StAd119:{
-from:130555,
-to:130837,
+StAd69:{
+from:132751,
+to:133033,
 src:'ar/76973.mp3',
 du:9455,
 saup:[{
@@ -71707,8 +71707,8 @@ visible:'1'
 si69489:{
 name:'Image_49',
 type:1268,
-from:20341,
-to:20430,
+from:132751,
+to:132840,
 rp:0,
 rpa:0,
 mdi:'si69489c',
@@ -71875,8 +71875,8 @@ vb:[-1,-1,1,1]
 si69483:{
 name:'Image_Group_49',
 type:1268,
-from:20341,
-to:20430,
+from:132751,
+to:132840,
 rp:0,
 rpa:0,
 mdi:'si69483c',
@@ -72248,8 +72248,8 @@ vb:[-1,-1,777,649]
 si69424:{
 name:'Image_Group_Text_85',
 type:1268,
-from:20341,
-to:20430,
+from:132751,
+to:132840,
 rp:0,
 rpa:0,
 mdi:'si69424c',
@@ -72420,8 +72420,8 @@ vb:[-1,-1,1,1]
 si69406:{
 name:'Text_712',
 type:1250,
-from:20341,
-to:20430,
+from:132751,
+to:132840,
 rp:0,
 rpa:0,
 mdi:'si69406c',
@@ -72464,7 +72464,7 @@ efva:[]
 eflh:[69398],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"1favr","text":"Behavioral Activation and Relapse Prevention","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":44,"style":"overridden:true"},{"offset":0,"length":44,"style":"textDecoration:none"},{"offset":0,"length":44,"style":"fontFamily:Georgia"},{"offset":0,"length":44,"style":"borderBottomStyle:none"},{"offset":0,"length":44,"style":"textShadowEnable:false"},{"offset":0,"length":44,"style":"hlnk:"},{"offset":0,"length":44,"style":"fontWeight:normal"},{"offset":0,"length":44,"style":"textShadowBlur:8px"},{"offset":0,"length":44,"style":"mobile-fontSize:40"},{"offset":0,"length":44,"style":"desktop-fontSize:48"},{"offset":0,"length":44,"style":"tablet-fontSize:50"},{"offset":0,"length":44,"style":"textShadowColor:#19191929"},{"offset":0,"length":44,"style":"color:#00274a"},{"offset":0,"length":44,"style":"textShadow:none"},{"offset":0,"length":44,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":44,"style":"hlnkt:wp"},{"offset":0,"length":44,"style":"fontStyle:normal"},{"offset":0,"length":44,"style":"textOutlineEnable:false"},{"offset":0,"length":44,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":44,"style":"WebkitTextStrokeColor:#18a4bd"},{"offset":0,"length":44,"style":"opacity:1"},{"offset":0,"length":44,"style":"defaultTextStrokeColor:#18a4bd"},{"offset":0,"length":44,"style":"hlnke:true"},{"offset":0,"length":44,"style":"defaultTextShadow:none"},{"offset":0,"length":44,"style":"backgroundColor:unset"},{"offset":0,"length":44,"style":"textShadowX:0px"},{"offset":0,"length":44,"style":"fontStretch:normal"},{"offset":0,"length":44,"style":"fontType:regular"},{"offset":0,"length":44,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":44,"style":"textShadowY:4px"},{"offset":0,"length":44,"style":"lineHeight:135%"},{"offset":0,"length":44,"style":"letterSpacing:0%"},{"offset":0,"length":44,"style":"textHighlightEnable:false"},{"offset":0,"length":44,"style":"textTransform:none"},{"offset":0,"length":44,"style":"textShadowOpacity:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-heading-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"1favr","text":"Behavioral Activation and Relapse Prevention","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":44,"style":"textShadowColor:#19191929"},{"offset":0,"length":44,"style":"color:#00274a"},{"offset":0,"length":44,"style":"textShadow:none"},{"offset":0,"length":44,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":44,"style":"hlnkt:wp"},{"offset":0,"length":44,"style":"fontStyle:normal"},{"offset":0,"length":44,"style":"textOutlineEnable:false"},{"offset":0,"length":44,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":44,"style":"WebkitTextStrokeColor:#18a4bd"},{"offset":0,"length":44,"style":"opacity:1"},{"offset":0,"length":44,"style":"defaultTextStrokeColor:#18a4bd"},{"offset":0,"length":44,"style":"hlnke:true"},{"offset":0,"length":44,"style":"defaultTextShadow:none"},{"offset":0,"length":44,"style":"backgroundColor:unset"},{"offset":0,"length":44,"style":"textShadowX:0px"},{"offset":0,"length":44,"style":"fontStretch:normal"},{"offset":0,"length":44,"style":"fontType:regular"},{"offset":0,"length":44,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":44,"style":"textShadowY:4px"},{"offset":0,"length":44,"style":"lineHeight:135%"},{"offset":0,"length":44,"style":"letterSpacing:0%"},{"offset":0,"length":44,"style":"textHighlightEnable:false"},{"offset":0,"length":44,"style":"textTransform:none"},{"offset":0,"length":44,"style":"textShadowOpacity:none"},{"offset":0,"length":44,"style":"overridden:true"},{"offset":0,"length":44,"style":"textDecoration:none"},{"offset":0,"length":44,"style":"fontFamily:Georgia"},{"offset":0,"length":44,"style":"borderBottomStyle:none"},{"offset":0,"length":44,"style":"textShadowEnable:false"},{"offset":0,"length":44,"style":"hlnk:"},{"offset":0,"length":44,"style":"fontWeight:normal"},{"offset":0,"length":44,"style":"textShadowBlur:8px"},{"offset":0,"length":44,"style":"mobile-fontSize:40"},{"offset":0,"length":44,"style":"desktop-fontSize:48"},{"offset":0,"length":44,"style":"tablet-fontSize:50"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-heading-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -72901,8 +72901,8 @@ vb:[-2,-2,-1,-1]
 Slide69514:{
 lb:'Behavioral Activation and Relapse Prevention',
 id:69514,
-from:20341,
-to:20430,
+from:132751,
+to:132840,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -72985,9 +72985,9 @@ uid:69514,
 dn:'Slide69514',
 visible:'1'
 },
-StAd120:{
-from:130555,
-to:131192,
+StAd70:{
+from:132841,
+to:133478,
 src:'ar/76343.mp3',
 du:21340,
 saup:[{
@@ -74281,9 +74281,9 @@ uid:11128,
 dn:'Slide11128',
 visible:'1'
 },
-StAd121:{
-from:130555,
-to:131371,
+StAd71:{
+from:132841,
+to:133657,
 src:'ar/76345.mp3',
 du:27244,
 saup:[{
@@ -77292,9 +77292,9 @@ uid:76108,
 dn:'Slide76108',
 visible:'1'
 },
-StAd122:{
-from:130555,
-to:131208,
+StAd72:{
+from:132841,
+to:133494,
 src:'ar/76347.mp3',
 du:21812,
 saup:[{
@@ -79392,9 +79392,9 @@ uid:76349,
 dn:'Slide76349',
 visible:'1'
 },
-StAd123:{
-from:130555,
-to:131145,
+StAd73:{
+from:132841,
+to:133431,
 src:'ar/76625.mp3',
 du:19722,
 saup:[{
@@ -81492,9 +81492,9 @@ uid:76487,
 dn:'Slide76487',
 visible:'1'
 },
-StAd124:{
-from:130555,
-to:131169,
+StAd74:{
+from:132841,
+to:133455,
 src:'ar/76765.mp3',
 du:20506,
 saup:[{
@@ -83592,9 +83592,9 @@ uid:76627,
 dn:'Slide76627',
 visible:'1'
 },
-StAd125:{
-from:130555,
-to:131300,
+StAd75:{
+from:132841,
+to:133586,
 src:'ar/76905.mp3',
 du:24893,
 saup:[{
@@ -85692,9 +85692,9 @@ uid:76767,
 dn:'Slide76767',
 visible:'1'
 },
-StAd126:{
-from:130555,
-to:130991,
+StAd76:{
+from:132841,
+to:133277,
 src:'ar/76945.mp3',
 du:14575,
 saup:[{
@@ -87066,9 +87066,9 @@ uid:63836,
 dn:'Slide63836',
 visible:'1'
 },
-StAd127:{
-from:130555,
-to:131594,
+StAd77:{
+from:132841,
+to:133880,
 src:'ar/76943.mp3',
 du:34716,
 saup:[{
@@ -95718,9 +95718,9 @@ uid:64046,
 dn:'Slide64046',
 visible:'1'
 },
-StAd128:{
-from:130555,
-to:131453,
+StAd78:{
+from:132841,
+to:133739,
 src:'ar/76947.mp3',
 du:30040,
 saup:[{
@@ -95732,9 +95732,9 @@ l:false
 ]
 
 },
-StAd129:{
-from:130555,
-to:131420,
+StAd79:{
+from:132841,
+to:133706,
 src:'ar/76975.mp3',
 du:28916,
 saup:[{
@@ -103024,9 +103024,9 @@ quizNumberingType:26,
 ail:['si70026','si70034','si70042','si70050'],
 cal:['si70034']
 },
-StAd130:{
-from:130555,
-to:130765,
+StAd80:{
+from:132841,
+to:133051,
 src:'ar/76913.mp3',
 du:7053,
 saup:[{
@@ -104239,9 +104239,9 @@ uid:66337,
 dn:'Slide66337',
 visible:'1'
 },
-StAd131:{
-from:130555,
-to:131035,
+StAd81:{
+from:132841,
+to:133321,
 src:'ar/76921.mp3',
 du:16065,
 saup:[{
@@ -105535,9 +105535,9 @@ uid:66578,
 dn:'Slide66578',
 visible:'1'
 },
-StAd132:{
-from:130555,
-to:131087,
+StAd82:{
+from:132841,
+to:133373,
 src:'ar/76919.mp3',
 du:17787,
 saup:[{
@@ -106831,9 +106831,9 @@ uid:66718,
 dn:'Slide66718',
 visible:'1'
 },
-StAd133:{
-from:130555,
-to:130855,
+StAd83:{
+from:132841,
+to:133141,
 src:'ar/76925.mp3',
 du:10057,
 saup:[{
@@ -109328,9 +109328,9 @@ uid:67084,
 dn:'Slide67084',
 visible:'1'
 },
-StAd134:{
-from:130555,
-to:130910,
+StAd84:{
+from:132841,
+to:133196,
 src:'ar/76931.mp3',
 du:11936,
 saup:[{
@@ -109342,9 +109342,9 @@ l:false
 ]
 
 },
-StAd135:{
-from:130555,
-to:130904,
+StAd85:{
+from:132841,
+to:133190,
 src:'ar/76933.mp3',
 du:11728,
 saup:[{
@@ -110638,9 +110638,9 @@ uid:67222,
 dn:'Slide67222',
 visible:'1'
 },
-StAd136:{
-from:130555,
-to:130994,
+StAd86:{
+from:132841,
+to:133280,
 src:'ar/76977.mp3',
 du:14706,
 saup:[{
@@ -111934,9 +111934,9 @@ uid:67360,
 dn:'Slide67360',
 visible:'1'
 },
-StAd137:{
-from:130555,
-to:130889,
+StAd87:{
+from:132841,
+to:133175,
 src:'ar/76935.mp3',
 du:11179,
 saup:[{
@@ -114430,9 +114430,9 @@ uid:67610,
 dn:'Slide67610',
 visible:'1'
 },
-StAd138:{
-from:130555,
-to:131054,
+StAd88:{
+from:132841,
+to:133340,
 src:'ar/76937.mp3',
 du:16718,
 saup:[{
@@ -115726,9 +115726,9 @@ uid:67855,
 dn:'Slide67855',
 visible:'1'
 },
-StAd139:{
-from:130555,
-to:131141,
+StAd89:{
+from:132841,
+to:133427,
 src:'ar/76939.mp3',
 du:19642,
 saup:[{
@@ -117022,9 +117022,9 @@ uid:67995,
 dn:'Slide67995',
 visible:'1'
 },
-StAd140:{
-from:130555,
-to:131009,
+StAd90:{
+from:132841,
+to:133295,
 src:'ar/76949.mp3',
 du:15175,
 saup:[{
@@ -118396,9 +118396,9 @@ uid:64153,
 dn:'Slide64153',
 visible:'1'
 },
-StAd141:{
-from:130555,
-to:131513,
+StAd91:{
+from:132841,
+to:133799,
 src:'ar/76951.mp3',
 du:32000,
 saup:[{
@@ -127047,9 +127047,9 @@ uid:64260,
 dn:'Slide64260',
 visible:'1'
 },
-StAd142:{
-from:130555,
-to:131546,
+StAd92:{
+from:132841,
+to:133832,
 src:'ar/76953.mp3',
 du:33148,
 saup:[{
@@ -135683,9 +135683,9 @@ uid:64367,
 dn:'Slide64367',
 visible:'1'
 },
-StAd143:{
-from:130555,
-to:131350,
+StAd93:{
+from:132841,
+to:133636,
 src:'ar/76955.mp3',
 du:26565,
 saup:[{
@@ -144334,9 +144334,9 @@ uid:64474,
 dn:'Slide64474',
 visible:'1'
 },
-StAd144:{
-from:130555,
-to:131396,
+StAd94:{
+from:132841,
+to:133682,
 src:'ar/76957.mp3',
 du:28081,
 saup:[{
@@ -161618,9 +161618,9 @@ uid:64688,
 dn:'Slide64688',
 visible:'1'
 },
-StAd145:{
-from:130555,
-to:131528,
+StAd95:{
+from:132841,
+to:133814,
 src:'ar/76959.mp3',
 du:32495,
 saup:[{
@@ -168910,9 +168910,9 @@ quizNumberingType:26,
 ail:['si75669','si75677','si75685','si75693'],
 cal:['si75677']
 },
-StAd146:{
-from:130555,
-to:130819,
+StAd96:{
+from:132841,
+to:133105,
 src:'ar/77272.mp3',
 du:8855,
 saup:[{
@@ -170049,9 +170049,9 @@ uid:77259,
 dn:'Slide77259',
 visible:'1'
 },
-StAd147:{
-from:130555,
-to:130811,
+StAd97:{
+from:132841,
+to:133097,
 src:'ar/76961.mp3',
 du:8620,
 saup:[{
@@ -184852,11 +184852,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-28845:{
+28864:{
 ts:''
 }
 ,
-28864:{
+28845:{
 ts:''
 }
 
@@ -184885,9 +184885,9 @@ uid:27880,
 dn:'Slide27880',
 visible:'1'
 },
-StAd148:{
-from:130555,
-to:131561,
+StAd98:{
+from:132841,
+to:133847,
 src:'ar/52454.mp3',
 du:33618,
 saup:[{
@@ -191092,9 +191092,9 @@ uid:27000,
 dn:'Slide27000',
 visible:'1'
 },
-StAd149:{
-from:130555,
-to:131177,
+StAd99:{
+from:132841,
+to:133463,
 src:'ar/76965.mp3',
 du:20844,
 saup:[{
@@ -196416,8 +196416,8 @@ visible:'1'
 si31558:{
 name:'Certificate_1',
 type:1268,
-from:130105,
-to:130194,
+from:132841,
+to:132930,
 rp:0,
 rpa:0,
 mdi:'si31558c',
@@ -196606,8 +196606,8 @@ vb:[-1,-1,1,1]
 si31569:{
 name:'Certificate_Card_1',
 type:1268,
-from:130105,
-to:130194,
+from:132841,
+to:132930,
 rp:0,
 rpa:0,
 mdi:'si31569c',
@@ -198812,8 +198812,8 @@ vb:[-2,-2,150,30]
 si31731:{
 name:'Signature_Caption_1',
 type:1268,
-from:130105,
-to:130194,
+from:132841,
+to:132930,
 rp:0,
 rpa:0,
 mdi:'si31731c',
@@ -199167,8 +199167,8 @@ vb:[-1,-1,201,61]
 si31753:{
 name:'Text_467',
 type:1250,
-from:130105,
-to:130194,
+from:132841,
+to:132930,
 rp:0,
 rpa:0,
 mdi:'si31753c',
@@ -199198,7 +199198,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"am7gf","text":"Nichol Veles, Jordyn Love-Aguilar and Kennedy Oliver-Sorrell. CSU Monterey Bay IST 622","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":86,"style":"hlnk:"},{"offset":0,"length":86,"style":"hlnkt:wp"},{"offset":0,"length":86,"style":"textOutlineEnable:false"},{"offset":0,"length":86,"style":"opacity:1"},{"offset":0,"length":86,"style":"hlnke:true"},{"offset":0,"length":86,"style":"backgroundColor:unset"},{"offset":0,"length":86,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":86,"style":"textHighlightEnable:false"},{"offset":0,"length":86,"style":"textShadowEnable:false"},{"offset":0,"length":86,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"am7gf","text":"Nichol Veles","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":12,"style":"textHighlightEnable:false"},{"offset":0,"length":12,"style":"textShadowEnable:false"},{"offset":0,"length":12,"style":"overridden:false"},{"offset":0,"length":12,"style":"hlnk:"},{"offset":0,"length":12,"style":"hlnkt:wp"},{"offset":0,"length":12,"style":"textOutlineEnable:false"},{"offset":0,"length":12,"style":"opacity:1"},{"offset":0,"length":12,"style":"hlnke:true"},{"offset":0,"length":12,"style":"backgroundColor:unset"},{"offset":0,"length":12,"style":"defaultBackgroundColor:#E8D01B"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}},{"key":"1t94u","text":"CSU Monterey Bay IST 699","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":24,"style":"hlnk:"},{"offset":0,"length":24,"style":"hlnkt:wp"},{"offset":0,"length":24,"style":"textOutlineEnable:false"},{"offset":0,"length":24,"style":"opacity:1"},{"offset":0,"length":24,"style":"hlnke:true"},{"offset":0,"length":24,"style":"backgroundColor:unset"},{"offset":0,"length":24,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":24,"style":"textHighlightEnable:false"},{"offset":0,"length":24,"style":"textShadowEnable:false"},{"offset":0,"length":24,"style":"overridden:false"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"false","presetId":"text-body-1"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -199317,8 +199317,8 @@ vb:[4,-1,7,2]
 Slide31536:{
 lb:'Certificate Of Completion',
 id:31536,
-from:130105,
-to:130194,
+from:132841,
+to:132930,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -208963,7 +208963,7 @@ dsType:1,
 dsWidth:100
 }
 ,
-slideAudios:'StAd100,StAd101,StAd102,StAd103,StAd104,StAd105,StAd106,StAd107,StAd108,StAd109,StAd110,StAd111,StAd112,StAd113,StAd114,StAd115,StAd116,StAd117,StAd118,StAd119,StAd120,StAd121,StAd122,StAd123,StAd124,StAd125,StAd126,StAd127,StAd128,StAd129,StAd130,StAd131,StAd132,StAd133,StAd134,StAd135,StAd136,StAd137,StAd138,StAd139,StAd140,StAd141,StAd142,StAd143,StAd144,StAd145,StAd146,StAd147,StAd148,StAd149',
+slideAudios:'StAd50,StAd51,StAd52,StAd53,StAd54,StAd55,StAd56,StAd57,StAd58,StAd59,StAd60,StAd61,StAd62,StAd63,StAd64,StAd65,StAd66,StAd67,StAd68,StAd69,StAd70,StAd71,StAd72,StAd73,StAd74,StAd75,StAd76,StAd77,StAd78,StAd79,StAd80,StAd81,StAd82,StAd83,StAd84,StAd85,StAd86,StAd87,StAd88,StAd89,StAd90,StAd91,StAd92,StAd93,StAd94,StAd95,StAd96,StAd97,StAd98,StAd99',
 vestr:1,
 vim:0,
 slides:'Slide1017,Slide1151,Slide1482,Slide77117,Slide41107,Slide64796,Slide68135,Slide2698,Slide65048,Slide31987,Slide68275,Slide68278,Slide68519,Slide35645,Slide4591,Slide44138,Slide9292,Slide68742,Slide68880,Slide69020,Slide69129,Slide69374,Slide69267,Slide69514,Slide11128,Slide44693,Slide76108,Slide44832,Slide76349,Slide44968,Slide76487,Slide45104,Slide76627,Slide45966,Slide76767,Slide63836,Slide65562,Slide65563,Slide64046,Slide73524,Slide70198,Slide66337,Slide66578,Slide66718,Slide66858,Slide67084,Slide67222,Slide67360,Slide67500,Slide67610,Slide67855,Slide67995,Slide64153,Slide73777,Slide70870,Slide64260,Slide74030,Slide72450,Slide64367,Slide73271,Slide72765,Slide64474,Slide74283,Slide74598,Slide74705,Slide74958,Slide75273,Slide64688,Slide75526,Slide75841,Slide77259,Slide27880,Slide27000,Slide30877,Slide31536,Slide31774,Slide7379',
@@ -209053,7 +209053,7 @@ text:['"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"d99kn\",\"text\":\
 }
 ,{
 link:68275,
-text:['"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"cdhr0\",\"text\":\"\\\"Let’s reinforce this cycle. Our Cognitive Processes (or thoughts) directly influence our emotional responses and subsequent behaviors. Negative thought effects are powerful: distorted or negative thinking leads to unhealthy feelings and those maladaptive behaviors. This creates a Cycle Reinforcement where unhealthy feelings and behaviors keep fueling the symptoms of dual diagnosis.\\\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":386,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":386,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":386,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":386,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":386,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":386,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":386,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":386,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":386,\"style\":\"desktop-fontSize:12\"},{\"offset\":0,\"length\":386,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":386,\"style\":\"textShadowColor:#19191929\"},{\"offset\":0,\"length\":386,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":386,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":386,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":386,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":386,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":386,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":386,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":386,\"style\":\"WebkitTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":386,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":386,\"style\":\"defaultTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":386,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":386,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":386,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":386,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":386,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":386,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":386,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":386,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":386,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":386,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":386,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":386,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":386,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":386,\"style\":\"textTransform:none\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}},{\"key\":\"2j3pq\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"\\\"Let’s reinforce this cycle. Our Cognitive Processes (or thoughts) directly influence our emotional responses and subsequent behaviors. Negative thought effects are powerful: distorted or negative thinking leads to unhealthy feelings and those maladaptive behaviors. This creates a Cycle Reinforcement where unhealthy feelings and behaviors keep fueling the symptoms of dual diagnosis.\\\"\\n\",\"duration\":27.8,\"end\":27.8,\"id\":\"caption__4680__8\",\"dirtyReasons\":[\"TEXT_MODIFIED\"],\"speechAgentV1\":{\"name\":\"Amelia - young and enthusiastic\",\"id\":\"ZF6FPAbjXT4488VcRRnw\",\"source\":\"ElevenLabs\"}}]"']
+text:['"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"cdhr0\",\"text\":\"\\\"Let’s reinforce this cycle. Our Cognitive Processes (or thoughts) directly influence our emotional responses and subsequent behaviors. Negative thought effects are powerful: distorted or negative thinking leads to unhealthy feelings and those maladaptive behaviors. This creates a Cycle Reinforcement where unhealthy feelings and behaviors keep fueling the symptoms of dual diagnosis.\\\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":386,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":386,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":386,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":386,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":386,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":386,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":386,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":386,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":386,\"style\":\"desktop-fontSize:12\"},{\"offset\":0,\"length\":386,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":386,\"style\":\"textShadowColor:#19191929\"},{\"offset\":0,\"length\":386,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":386,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":386,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":386,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":386,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":386,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":386,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":386,\"style\":\"WebkitTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":386,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":386,\"style\":\"defaultTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":386,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":386,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":386,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":386,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":386,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":386,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":386,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":386,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":386,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":386,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":386,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":386,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":386,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":386,\"style\":\"textTransform:none\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}},{\"key\":\"2j3pq\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"\\\"Let’s reinforce this cycle. Our Cognitive Processes (or thoughts) directly influence our emotional responses and subsequent behaviors. Negative thought effects are powerful: distorted or negative thinking leads to unhealthy feelings and those maladaptive behaviors. This creates a Cycle Reinforcement where unhealthy feelings and behaviors keep fueling the symptoms of dual diagnosis.\\\"\\n\",\"duration\":27.8,\"end\":27.8,\"id\":\"caption__4680__8\",\"dirtyReasons\":[\"TEXT_MODIFIED\"],\"speechAgentV1\":{\"name\":\"Amelia - young and enthusiastic\",\"id\":\"ZF6FPAbjXT4488VcRRnw\",\"source\":\"ElevenLabs\"}}]"','"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"cdhr0\",\"text\":\"\\\"Let’s reinforce this cycle. Our Cognitive Processes (or thoughts) directly influence our emotional responses and subsequent behaviors. Negative thought effects are powerful: distorted or negative thinking leads to unhealthy feelings and those maladaptive behaviors. This creates a Cycle Reinforcement where unhealthy feelings and behaviors keep fueling the symptoms of dual diagnosis.\\\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":386,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":386,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":386,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":386,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":386,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":386,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":386,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":386,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":386,\"style\":\"desktop-fontSize:12\"},{\"offset\":0,\"length\":386,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":386,\"style\":\"textShadowColor:#19191929\"},{\"offset\":0,\"length\":386,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":386,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":386,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":386,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":386,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":386,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":386,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":386,\"style\":\"WebkitTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":386,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":386,\"style\":\"defaultTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":386,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":386,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":386,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":386,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":386,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":386,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":386,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":386,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":386,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":386,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":386,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":386,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":386,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":386,\"style\":\"textTransform:none\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}},{\"key\":\"2j3pq\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"\\\"Let’s reinforce this cycle. Our Cognitive Processes (or thoughts) directly influence our emotional responses and subsequent behaviors. Negative thought effects are powerful: distorted or negative thinking leads to unhealthy feelings and those maladaptive behaviors. This creates a Cycle Reinforcement where unhealthy feelings and behaviors keep fueling the symptoms of dual diagnosis.\\\"\\n\",\"duration\":27.8,\"end\":27.8,\"id\":\"caption__4680__8\",\"dirtyReasons\":[\"TEXT_MODIFIED\"],\"speechAgentV1\":{\"name\":\"Amelia - young and enthusiastic\",\"id\":\"ZF6FPAbjXT4488VcRRnw\",\"source\":\"ElevenLabs\"}}]"']
 }
 ,{
 link:68278,
@@ -209073,7 +209073,7 @@ text:['"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"a0ien\",\"text\":\
 }
 ,{
 link:44138,
-text:['"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"fv2gd\",\"text\":\"\\\"The final corner is Behaviors. These are the actions you take based on your thoughts and feelings.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":99,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":99,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":99,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":99,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":99,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":99,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":99,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":99,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":99,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":99,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":99,\"style\":\"desktop-fontSize:12\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowColor:#19191929\"},{\"offset\":0,\"length\":99,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":99,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":99,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":99,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":99,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":99,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":99,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":99,\"style\":\"WebkitTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":99,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":99,\"style\":\"defaultTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":99,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":99,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":99,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":99,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":99,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":99,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":99,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":99,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowY:4px\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}},{\"key\":\"7jpsc\",\"text\":\"Using Substances: This is turning to alcohol or drugs to cope with difficult emotions or stressful thoughts. It\'s a short-term escape that reinforces negative thoughts and deepens emotional pain.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":195,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":195,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":195,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":195,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":195,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":195,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":195,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":195,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":195,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":195,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":195,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":195,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":195,\"style\":\"desktop-fontSize:12\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowColor:#19191929\"},{\"offset\":0,\"length\":195,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":195,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":195,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":195,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":195,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":195,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":195,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":195,\"style\":\"WebkitTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":195,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":195,\"style\":\"defaultTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":195,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":195,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":195,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":195,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":195,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":195,\"style\":\"fontType:regular\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}},{\"key\":\"br5ud\",\"text\":\"Withdrawing: This is pulling away from social contact or responsibilities, often following feelings of shame or hopelessness. It prevents access to support and healthy coping tools.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":181,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":181,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":181,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":181,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":181,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":181,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":181,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":181,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":181,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":181,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":181,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":181,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":181,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":181,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":181,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":181,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":181,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":181,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":181,\"style\":\"desktop-fontSize:12\"},{\"offset\":0,\"length\":181,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":181,\"style\":\"textShadowColor:#19191929\"},{\"offset\":0,\"length\":181,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":181,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":181,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":181,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":181,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":181,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":181,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":181,\"style\":\"WebkitTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":181,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":181,\"style\":\"defaultTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":181,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":181,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":181,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":181,\"style\":\"textShadow:none\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}},{\"key\":\"1g1d\",\"text\":\"Avoiding People: Purposely staying away from people or situations that cause discomfort. It reduces immediate anxiety but prevents accountability and growth.\\\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":158,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":158,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":158,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":158,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":158,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":158,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":158,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":158,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":158,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":158,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":158,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":158,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":158,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":158,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":158,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":158,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":158,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":158,\"style\":\"desktop-fontSize:12\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowColor:#19191929\"},{\"offset\":0,\"length\":158,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":158,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":158,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":158,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":158,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":158,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":158,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":158,\"style\":\"WebkitTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":158,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":158,\"style\":\"defaultTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":158,\"style\":\"hlnke:true\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}},{\"key\":\"78s69\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"\\\"The final corner is Behaviors. These are the actions you take based on your thoughts and feelings.\\nUsing Substances: This is turning to alcohol or drugs to cope with difficult emotions or stressful thoughts. It\'s a short-term escape that reinforces negative thoughts and deepens emotional pain.\\nWithdrawing: This is pulling away from social contact or responsibilities, often following feelings of shame or hopelessness. It prevents access to support and healthy coping tools.\\nAvoiding People: Purposely staying away from people or situations that cause discomfort. It reduces immediate anxiety but prevents accountability and growth.\\\"\\n\",\"duration\":48.4,\"end\":48.4,\"id\":\"caption__6091__14\",\"dirtyReasons\":[\"TEXT_MODIFIED\"],\"speechAgentV1\":{\"name\":\"Amelia - young and enthusiastic\",\"id\":\"ZF6FPAbjXT4488VcRRnw\",\"source\":\"ElevenLabs\"}}]"']
+text:['"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"fv2gd\",\"text\":\"\\\"The final corner is Behaviors. These are the actions you take based on your thoughts and feelings.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":99,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":99,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":99,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":99,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":99,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":99,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":99,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":99,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":99,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":99,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":99,\"style\":\"desktop-fontSize:12\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowColor:#19191929\"},{\"offset\":0,\"length\":99,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":99,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":99,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":99,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":99,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":99,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":99,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":99,\"style\":\"WebkitTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":99,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":99,\"style\":\"defaultTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":99,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":99,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":99,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":99,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":99,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":99,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":99,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":99,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowY:4px\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}},{\"key\":\"7jpsc\",\"text\":\"Using Substances: This is turning to alcohol or drugs to cope with difficult emotions or stressful thoughts. It\'s a short-term escape that reinforces negative thoughts and deepens emotional pain.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":195,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":195,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":195,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":195,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":195,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":195,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":195,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":195,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":195,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":195,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":195,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":195,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":195,\"style\":\"desktop-fontSize:12\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowColor:#19191929\"},{\"offset\":0,\"length\":195,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":195,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":195,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":195,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":195,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":195,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":195,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":195,\"style\":\"WebkitTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":195,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":195,\"style\":\"defaultTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":195,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":195,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":195,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":195,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":195,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":195,\"style\":\"fontType:regular\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}},{\"key\":\"br5ud\",\"text\":\"Withdrawing: This is pulling away from social contact or responsibilities, often following feelings of shame or hopelessness. It prevents access to support and healthy coping tools.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":181,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":181,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":181,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":181,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":181,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":181,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":181,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":181,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":181,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":181,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":181,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":181,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":181,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":181,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":181,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":181,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":181,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":181,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":181,\"style\":\"desktop-fontSize:12\"},{\"offset\":0,\"length\":181,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":181,\"style\":\"textShadowColor:#19191929\"},{\"offset\":0,\"length\":181,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":181,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":181,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":181,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":181,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":181,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":181,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":181,\"style\":\"WebkitTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":181,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":181,\"style\":\"defaultTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":181,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":181,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":181,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":181,\"style\":\"textShadow:none\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}},{\"key\":\"1g1d\",\"text\":\"Avoiding People: Purposely staying away from people or situations that cause discomfort. It reduces immediate anxiety but prevents accountability and growth.\\\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":158,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":158,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":158,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":158,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":158,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":158,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":158,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":158,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":158,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":158,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":158,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":158,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":158,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":158,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":158,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":158,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":158,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":158,\"style\":\"desktop-fontSize:12\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowColor:#19191929\"},{\"offset\":0,\"length\":158,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":158,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":158,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":158,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":158,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":158,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":158,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":158,\"style\":\"WebkitTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":158,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":158,\"style\":\"defaultTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":158,\"style\":\"hlnke:true\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}},{\"key\":\"78s69\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"\\\"The final corner is Behaviors. These are the actions you take based on your thoughts and feelings.\\nUsing Substances: This is turning to alcohol or drugs to cope with difficult emotions or stressful thoughts. It\'s a short-term escape that reinforces negative thoughts and deepens emotional pain.\\nWithdrawing: This is pulling away from social contact or responsibilities, often following feelings of shame or hopelessness. It prevents access to support and healthy coping tools.\\nAvoiding People: Purposely staying away from people or situations that cause discomfort. It reduces immediate anxiety but prevents accountability and growth.\\\"\\n\",\"duration\":48.4,\"end\":48.4,\"id\":\"caption__6091__14\",\"dirtyReasons\":[\"TEXT_MODIFIED\"],\"speechAgentV1\":{\"name\":\"Amelia - young and enthusiastic\",\"id\":\"ZF6FPAbjXT4488VcRRnw\",\"source\":\"ElevenLabs\"}}]"','"[{\"start\":0,\"editorState\":{\"blocks\":[{\"key\":\"fv2gd\",\"text\":\"\\\"The final corner is Behaviors. These are the actions you take based on your thoughts and feelings.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":99,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":99,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":99,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":99,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":99,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":99,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":99,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":99,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":99,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":99,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":99,\"style\":\"desktop-fontSize:12\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowColor:#19191929\"},{\"offset\":0,\"length\":99,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":99,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":99,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":99,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":99,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":99,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":99,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":99,\"style\":\"WebkitTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":99,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":99,\"style\":\"defaultTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":99,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":99,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":99,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":99,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":99,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":99,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":99,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":99,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":99,\"style\":\"textShadowY:4px\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}},{\"key\":\"7jpsc\",\"text\":\"Using Substances: This is turning to alcohol or drugs to cope with difficult emotions or stressful thoughts. It\'s a short-term escape that reinforces negative thoughts and deepens emotional pain.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":195,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":195,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":195,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":195,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":195,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":195,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":195,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":195,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":195,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":195,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":195,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":195,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":195,\"style\":\"desktop-fontSize:12\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowColor:#19191929\"},{\"offset\":0,\"length\":195,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":195,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":195,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":195,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":195,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":195,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":195,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":195,\"style\":\"WebkitTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":195,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":195,\"style\":\"defaultTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":195,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":195,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":195,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":195,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":195,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":195,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":195,\"style\":\"fontType:regular\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}},{\"key\":\"br5ud\",\"text\":\"Withdrawing: This is pulling away from social contact or responsibilities, often following feelings of shame or hopelessness. It prevents access to support and healthy coping tools.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":181,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":181,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":181,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":181,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":181,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":181,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":181,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":181,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":181,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":181,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":181,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":181,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":181,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":181,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":181,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":181,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":181,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":181,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":181,\"style\":\"desktop-fontSize:12\"},{\"offset\":0,\"length\":181,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":181,\"style\":\"textShadowColor:#19191929\"},{\"offset\":0,\"length\":181,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":181,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":181,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":181,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":181,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":181,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":181,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":181,\"style\":\"WebkitTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":181,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":181,\"style\":\"defaultTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":181,\"style\":\"hlnke:true\"},{\"offset\":0,\"length\":181,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":181,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":181,\"style\":\"textShadow:none\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}},{\"key\":\"1g1d\",\"text\":\"Avoiding People: Purposely staying away from people or situations that cause discomfort. It reduces immediate anxiety but prevents accountability and growth.\\\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":158,\"style\":\"defaultTextShadow:none\"},{\"offset\":0,\"length\":158,\"style\":\"tablet-fontSize:24\"},{\"offset\":0,\"length\":158,\"style\":\"textShadow:none\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowX:0px\"},{\"offset\":0,\"length\":158,\"style\":\"fontStretch:normal\"},{\"offset\":0,\"length\":158,\"style\":\"fontType:regular\"},{\"offset\":0,\"length\":158,\"style\":\"color:#ffffff\"},{\"offset\":0,\"length\":158,\"style\":\"defaultBackgroundColor:#E8D01B\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowY:4px\"},{\"offset\":0,\"length\":158,\"style\":\"lineHeight:135%\"},{\"offset\":0,\"length\":158,\"style\":\"letterSpacing:0%\"},{\"offset\":0,\"length\":158,\"style\":\"textHighlightEnable:false\"},{\"offset\":0,\"length\":158,\"style\":\"textTransform:none\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowOpacity:none\"},{\"offset\":0,\"length\":158,\"style\":\"overridden:true\"},{\"offset\":0,\"length\":158,\"style\":\"textDecoration:none\"},{\"offset\":0,\"length\":158,\"style\":\"fontFamily:Georgia\"},{\"offset\":0,\"length\":158,\"style\":\"borderBottomStyle:none\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowEnable:false\"},{\"offset\":0,\"length\":158,\"style\":\"hlnk:\"},{\"offset\":0,\"length\":158,\"style\":\"fontWeight:normal\"},{\"offset\":0,\"length\":158,\"style\":\"desktop-fontSize:12\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowBlur:8px\"},{\"offset\":0,\"length\":158,\"style\":\"textShadowColor:#19191929\"},{\"offset\":0,\"length\":158,\"style\":\"backgroundColor:unset\"},{\"offset\":0,\"length\":158,\"style\":\"WebkitTextStrokeWidth:1px\"},{\"offset\":0,\"length\":158,\"style\":\"hlnkt:wp\"},{\"offset\":0,\"length\":158,\"style\":\"fontStyle:normal\"},{\"offset\":0,\"length\":158,\"style\":\"mobile-fontSize:24\"},{\"offset\":0,\"length\":158,\"style\":\"defaultTextStrokeWidth:1px\"},{\"offset\":0,\"length\":158,\"style\":\"textOutlineEnable:false\"},{\"offset\":0,\"length\":158,\"style\":\"WebkitTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":158,\"style\":\"opacity:1\"},{\"offset\":0,\"length\":158,\"style\":\"defaultTextStrokeColor:#18a4bd\"},{\"offset\":0,\"length\":158,\"style\":\"hlnke:true\"}],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}},{\"key\":\"78s69\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{\"listDepth\":\"0\",\"listColor\":\"#666666\",\"verticalAlignMarginBottom\":\"0px\",\"listIndent\":\"100%\",\"overridden\":\"true\",\"marginLeft\":\"0px\",\"verticalAlignMarginTop\":\"auto\",\"listType\":\"S_Bullets08\",\"textAlign\":\"center\",\"marginBottom\":\"0%\",\"presetId\":\"text-closedcaptions\",\"listSize\":\"100%\"}}],\"entityMap\":{}},\"CCPosition\":\"BOTTOM\",\"text\":\"\\\"The final corner is Behaviors. These are the actions you take based on your thoughts and feelings.\\nUsing Substances: This is turning to alcohol or drugs to cope with difficult emotions or stressful thoughts. It\'s a short-term escape that reinforces negative thoughts and deepens emotional pain.\\nWithdrawing: This is pulling away from social contact or responsibilities, often following feelings of shame or hopelessness. It prevents access to support and healthy coping tools.\\nAvoiding People: Purposely staying away from people or situations that cause discomfort. It reduces immediate anxiety but prevents accountability and growth.\\\"\\n\",\"duration\":48.4,\"end\":48.4,\"id\":\"caption__6091__14\",\"dirtyReasons\":[\"TEXT_MODIFIED\"],\"speechAgentV1\":{\"name\":\"Amelia - young and enthusiastic\",\"id\":\"ZF6FPAbjXT4488VcRRnw\",\"source\":\"ElevenLabs\"}}]"']
 }
 ,{
 link:9292,
